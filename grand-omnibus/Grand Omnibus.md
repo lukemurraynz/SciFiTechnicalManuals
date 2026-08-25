@@ -667,7 +667,7 @@ SG TEAMS  BASE OPS    SCIENCES     MEDICAL
 
 ### 8.2 Ascension and the Repository Chairs
 
-**What:** The Ancients' archive heads download millennial knowledge into compatible minds, with days-to-live side effects for unaugmented brains, while the Ascended themselves enforce non-interference with the fervor of the truly burned.
+**What:** The Ancients' archive heads download millennial knowledge into compatible minds, with days-to-live side effects for unaugmented brains, while the Ascended themselves enforce non-interference with the fervor of the burned.
 **Where:** Repository sites across the MW network; ascension seats (Kheb, Celestis-adjacent).
 **Cost of contact:** Knowledge kills as readily as ignorance. The Ascended's rule of non-interference is not etiquette; it is scar tissue.
 
@@ -8675,7 +8675,7 @@ Dematerialization requires the Time Rotor engaged and coordinates set on the six
 
 ### 3.1 The Laws of Time (as practiced)
 
-1. **Non-intervention in fixed events.** Fixed points in time are load-bearing for history. Attempting to alter them causes catastrophe or is itself the event.
+1. **Non-intervention in fixed events.** Fixed points in time are structural to history. Attempting to alter them causes catastrophe or is itself the event.
 2. **No crossing your own timeline** without Blinovitch Limitation precautions: contact between a person's younger/older selves triggers energy discharge and worse.
 3. **Paradoxes attract Reapers**: temporal entities that consume paradox sources, erasing the area from history.
 4. **The Time War changed everything.** Pre-War Time Lord law assumed an institution enforcing it. Post-War, the last Time Lord enforces it by mood.
@@ -9811,6 +9811,37 @@ Golan Trevize, Councilman of Terminus, identified Earth as the key to understand
 **In brief:** The administrative heart of the Empire: an entire planet covered in metal domes, housing forty billion administrators. Trantor eats twenty agricultural worlds' entire output and produces nothing but decisions. When Trantor fell to Gilmer's sack, the Empire's nervous system was severed.
 
 Post-fall Trantor survives as a primitive farming world called Neotrantor under the last weak Emperor.
+
+### 2.03 Trantor Infrastructure
+
+| System | Scale |
+|---|---|
+| Population | ~40 billion administrative workers + support |
+| Food dependency | Twenty agricultural worlds' entire output |
+| Heat dissipation | Thermal vents at poles radiate waste heat into space; Trantor produces more heat than it can passively shed |
+| Surface | None visible; entire planet enclosed in metal dome complexes |
+| Depth | Multiple sub-surface levels extending kilometers down |
+
+When Trantor fell, the metal was stripped for scrap by successive occupiers over decades. The planet is now a farming world called Neotrantor under the last weak Emperor, Dagobert IX.
+
+### 2.04 Foundation Technology Progression
+
+The Foundation's technological edge evolved through three distinct phases, each replacing the last:
+
+| Phase | Era | Method | Key innovation |
+|---|---|---|---|
+| **Religious** | FE 50–80 | Nuclear technology dispensed to neighboring kingdoms as priestly miracle; Foundation technicians trained local priests to operate Imperial-grade equipment | Cured the "demon" of a priest's appendicitis with atomic surgery; installed nuclear blast decoration on the Anacreonian king's flagship |
+| **Trade** | FE 80–200 | Economic penetration via Merchant Princes offering miniaturized nuclear devices, personal blasters, and force shields as consumer goods | Hober Mallow proved that commerce spreads faster than conversion: "a religion is a religion but trade touches every household" |
+| **Political** | FE 200+ | Direct governance through economic dependency; peripheral worlds cannot function without Foundation technology | Foundation credit becomes galactic reserve currency even inside remaining Imperial territory |
+
+**[W]** Each phase replaced the last because the previous one stopped scaling. Religion required priests on-site. Trade required only supply lines. Politics requires nothing but dependency.
+
+### 2.05 The Encyclopedia Galactica
+
+**In brief:** The original cover story: a project to compile all human knowledge into a single reference work. It was never intended to be completed. Its real purpose was justifying the placement of scientists on a remote world where they could develop without Imperial interference.
+
+By the pin date the Encyclopedia has become a genuine reference work, updated by Foundation scholars, though its entries lag behind current events by design (to avoid triggering Seldon Crises ahead of schedule).
+
 ---
 
 ## PART THREE — HYPERSPACE TRAVEL
@@ -9824,6 +9855,57 @@ Post-fall Trantor survives as a primitive farming world called Neotrantor under 
 | No organic pilot requirement | Unlike slipstream/warp systems; pure computation |
 
 **Gravitic effects:** jumps too close to massive bodies are dangerous. Standard doctrine approaches from system periphery.
+
+---
+
+## PART THREE — TECHNOLOGY DEEP-DIVE
+
+### 3.1 Personal Force Shields
+
+**In brief:** Worn deflector fields that absorb kinetic energy and disperse heat. Standard issue for Foundation military and Trantor palace guard. They do not stop slow-moving objects: a knife pushed slowly through a shield works; a bullet does not. This vulnerability is canon and has been exploited on-screen.
+
+| Property | Detail **[E]** |
+|---|---|
+| Power source | Belt-mounted atomic capsule |
+| Coverage | Full-body envelope |
+| Weakness | Slow objects penetrate; melee weapons used deliberately |
+| Availability | Foundation military + Trantor elite only |
+
+### 3.2 Nuclear Technology as Religion
+
+**In brief:** The Foundation's first export was not goods but *miracles*: nuclear-powered medical devices, weather control, and industrial equipment presented to neighboring kingdoms as divine gifts operated by consecrated priests. The priests were trained by the Foundation but told nothing of the science. The populations they served believed in divine intervention.
+
+The strategy worked because:
+- It created dependency without revealing capability
+- It established a priestly class loyal to the Foundation
+- It made nuclear technology sacred (untouchable) rather than replicable
+
+When Hober Mallow replaced this with open trade, he argued that religion required belief, which could be lost, while commerce only required desire, which never is.
+
+### 3.3 Computer Systems
+
+| System | Era | Notes |
+|---|---|---|
+| Imperial mainframes | Pre-Fall | Room-sized; vacuum tube descendants; Trantor archives hold the largest collection |
+| Foundation miniaturized | Post-FE 100 | Pocket-sized computers standard on Trader ships; a technological leap enabled by concentrated research |
+| Prime Radiant | Seldon-era | Quantum supercomputer projecting psychohistorical equations; exists in superposition |
+| Shipboard navigation computers | All eras | Hyperspace jump calculation requires known stellar coordinates; automated |
+
+### 3.4 Communications Infrastructure
+
+No FTL communication exists in this setting. Messages ride ships through hyperspace jumps. Consequences:
+
+- Governors act independently between updates (weeks to months)
+- The Mule conquered worlds faster than news of his approach could arrive
+- The Seldon Plan accounts for this delay as a stabilizing factor: isolation forces local problem-solving
+
+Hyper-relay stations exist on major routes but are expensive, rare, and controlled by the Empire (pre-fall) or Foundation (post-expansion).
+
+### 3.5 Currency and Economics
+
+- **Imperial credits:** pre-Fall galactic currency; still circulating but inflating rapidly post-Trantor sack
+- **Foundation credit:** hard currency backed by nuclear technology and manufactured goods; increasingly the de facto standard even inside remaining Imperial territory
+- **Barter economy:** periphery worlds outside both spheres trade physical goods; water, metal, and medicine are universal standards
 
 ---
 
@@ -9876,6 +9958,16 @@ Mentalics trained on Trantor (or wherever they actually are) to guide the Plan f
 
 - **Location:** "At the other end of the galaxy." Ruled to be Trantor itself by Preem Palver **[W]**.
 - **Threat profile:** They can rewrite your loyalty while you argue with them. Detection requires another mentalic.
+
+### 6.1a The Foundation's Religious-Industrial Complex
+
+The transition from priestly miracle to open trade created a schism in Foundation society: the old religious faction (Salvor Hardin's political heirs) versus the new Trader class (Hober Mallow's economic heirs). By the pin date the Traders hold real power through economic control while the bureaucratic government holds nominal authority. This tension is structural and unresolvable: the Traders are too useful to suppress and too independent to trust.
+
+### 6.1b The Seldon Vault Appearances
+
+After each predicted Seldon Crisis, the Time Vault opens and a pre-recorded holographic projection of Hari Seldon appears to confirm the Crisis has been weathered and preview the next. These appearances are automatic, not interactive. Seldon cannot answer questions or respond to unexpected developments. He is a message, not an oracle.
+
+The Mule's Crisis produced no appearance because the Mule was outside the Plan's predictive envelope. This absence confirmed to Foundation leadership that something had gone fundamentally wrong for the first time.
 
 ### 6.2 Bel Riose Pattern
 
